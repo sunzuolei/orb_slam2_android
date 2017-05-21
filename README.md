@@ -6,8 +6,8 @@ you can also find Related Publications about this project on this page.
 ## thanks to the reference program
 the original refernence program is on: https://github.com/kevinwchn/slamit_ORBSLAM2_on_Android <br />
  make it possible to run after dubugging and at the same time partly changed the UI.
-## environment
-Compiling environment: android studio<br />
+## environment already tested
+Compiling environment: android studio 2.2<br />
 Test environment: android 7.0<br />
 ## files needed
 this program need two files before running, both camera setting file and vocabulary file.<br />
