@@ -5,7 +5,7 @@ basic ORB SLAM2 project source code is on：https://github.com/raulmur/ORB_SLAM2
 you can also find Related Publications about this project on this page.
 ## thanks to the reference program
 the original refernence program is on: https://github.com/kevinwchn/slamit_ORBSLAM2_on_Android <br />
-after dubugging make it possible to run and partly changed the UI.
+ make it possible to run after dubugging and at the same time partly changed the UI.
 ## environment
 Compiling environment: android studio<br />
 Test environment: android 7.0<br />
