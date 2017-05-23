@@ -1,0 +1,4 @@
+#Tue May 23 21:27:08 CST 2017
+base.0=C\:\\Users\\SONY\\Desktop\\graduate\\ORB_slam_test\\ORB_SLAM2_Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\SONY\\Desktop\\graduate\\ORB_slam_test\\ORB_SLAM2_Android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

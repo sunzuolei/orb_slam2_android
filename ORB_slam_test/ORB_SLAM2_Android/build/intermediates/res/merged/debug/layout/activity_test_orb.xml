@@ -1,0 +1,166 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:opencv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@drawable/test">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/surfaceLinear"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp"
+            android:layout_weight="1.09"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1">
+
+            <org.opencv.android.JavaCameraView
+                android:id="@+id/tutorial1_activity_java_surface_view"
+                android:layout_width="250dip"
+                android:layout_height="230dip"
+                android:layout_centerHorizontal="true"
+
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="5dip"
+                android:layout_marginTop="5dip"
+                android:background="@drawable/border"
+                android:visibility="gone"
+                opencv:camera_id="any"
+                opencv:show_fps="true" />
+
+            <org.opencv.android.NativeCameraView
+                android:id="@+id/tutorial1_activity_native_surface_view"
+                android:layout_width="250dip"
+                android:layout_height="23dip"
+                android:layout_centerHorizontal="true"
+
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="5dip"
+                android:layout_marginTop="5dip"
+                android:background="@drawable/border"
+                android:visibility="gone"
+                opencv:camera_id="any"
+                opencv:show_fps="true" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="220dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_dealed"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitXY" />
+
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                   <TextView
+                    android:id="@+id/dataTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="31dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginLeft="50dp"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/TextSize"
+                    android:text="data collection" />
+
+                    <TextView
+                        android:id="@+id/distTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="45dp"
+                        android:layout_marginLeft="50dp"
+                        android:text="" />
+
+
+              </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="290dp"
+                android:layout_marginLeft="115dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/start"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="start"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/stop"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="stop"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/track_only"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="15dp"
+                    android:text="Track Only"
+                    android:background="@drawable/button"
+                    android:textColor="#ffffff"
+                    android:textSize="12dp"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/calibrationStart"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:background="#ffffff"
+
+                    android:text="Start Calibration"
+                    android:textColor="#00033d"
+                    android:textSize="12dp"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/distanceStart"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="55dp"
+
+                    android:text="Start Distance"
+                    android:background="@drawable/button"
+                    android:textColor="#ffffff"
+                    android:textSize="12dp"
+                    android:visibility="visible"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="0.5dip"
+            android:layout_height="match_parent"
+            android:background="#CCCCCC" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

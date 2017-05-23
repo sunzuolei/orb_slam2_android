@@ -1,0 +1,434 @@
+[
+    {
+        "outputFile": "C:\\Users\\SONY\\Desktop\\graduate\\ORB_slam_test\\ORB_SLAM2_Android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 134,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 74,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 74,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 86,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 104,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 104,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\877b03771c5a1f7fc77a8b914eabdb30fb6dc07c\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\SONY\\Desktop\\graduate\\Orbslamtest\\oRB_SLAM2_Android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 134,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 74,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 74,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 86,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 104,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 104,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\877b03771c5a1f7fc77a8b914eabdb30fb6dc07c\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\SONY\\Desktop\\graduate\\ORBslam_test\\oRB_SLAM2_Android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 134,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 74,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 74,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 86,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 104,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\1648f6490cc1d26e6b4d87011460adce7c2a8973\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 104,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "C:\\Users\\SONY\\.android\\build-cache\\877b03771c5a1f7fc77a8b914eabdb30fb6dc07c\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    }
+]
