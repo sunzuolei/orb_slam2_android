@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main"
+    android:onClick="onClick" >
+    
+    <include 
+        android:id="@+id/loading"
+        layout="@layout/activity_camera_mode" 
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/origin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:layout_marginTop="100dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/dataset_mode"
+            android:layout_width="200dip"
+            android:layout_height="52dip"
+            android:text="dataset_mode"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/test_mode"
+            android:layout_width="200dip"
+            android:layout_height="52dip"
+            android:background="#00033d"
+            android:text="START"
+            android:textColor="#ffffff"
+            android:textSize="18dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="100dp"
+            android:background="@null"
+            android:text="if you wang to change files  >>>"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+
+</FrameLayout>
