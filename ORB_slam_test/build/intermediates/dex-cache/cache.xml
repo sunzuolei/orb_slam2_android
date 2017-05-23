@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SONY\Desktop\graduate\slamit_ORBSLAM2_on_Android-master\107-master\openCVLibrary249\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf25ccfe4c584a27b90d9443532cc37f4d07e412">
+        <dex dex="C:\Users\SONY\Desktop\graduate\slamit_ORBSLAM2_on_Android-master\107-master\oRB_SLAM2_Android\build\intermediates\pre-dexed\debug\classes_ffb3f41bee37fb826146dbdaa10890ba51f36941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SONY\Desktop\graduate\ORBslam_test\openCVLibrary249\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf25ccfe4c584a27b90d9443532cc37f4d07e412">
+        <dex dex="C:\Users\SONY\Desktop\graduate\ORBslam_test\oRB_SLAM2_Android\build\intermediates\pre-dexed\debug\classes_8309a3a29f245efc18e0ec4168f8d4cdcce635e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SONY\Desktop\graduate\ORB_slam_test\openCVLibrary249\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf25ccfe4c584a27b90d9443532cc37f4d07e412">
+        <dex dex="C:\Users\SONY\Desktop\graduate\ORB_slam_test\ORB_SLAM2_Android\build\intermediates\pre-dexed\debug\classes_f9ce71b858bb3f26cd18da0b76ab0728eeceff7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SONY\Desktop\graduate\Orbslamtest\openCVLibrary249\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf25ccfe4c584a27b90d9443532cc37f4d07e412">
+        <dex dex="C:\Users\SONY\Desktop\graduate\Orbslamtest\oRB_SLAM2_Android\build\intermediates\pre-dexed\debug\classes_57149c90a5247ecc9882e573b9adfac520dd2c22.jar" />
+    </item>
+
+</items>
