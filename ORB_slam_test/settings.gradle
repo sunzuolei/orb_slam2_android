@@ -1,2 +1,2 @@
 include ':openCVLibrary249'
-include ':oRB_SLAM2_Android'
+include ':ORB_SLAM2_Android'
